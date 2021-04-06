@@ -38,7 +38,7 @@ Realiza el diseño físico para el siguiente modelo relacional. Asigna el tipo d
 
 
 
-### Ejercicio 3
+### Ejercicio 2
 
 Disponemos de la siguiente Base de Datos para gestionar la información de los pubs de una determinada provincia:
 
