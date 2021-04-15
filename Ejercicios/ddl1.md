@@ -22,6 +22,8 @@ Realiza el diseño físico para el siguiente modelo relacional. Asigna el tipo d
 
 Insertar los siguientes datos:
 
+https://github.com/IESLuisBraille/bd/blob/master/Ejercicios/insertEjercicioC.sql
+
 
 
 #### D
