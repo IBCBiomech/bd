@@ -15,10 +15,7 @@ Realiza el diseño físico para el siguiente modelo relacional. Asigna el tipo d
 #### C
 
 
-
-
-
-![Planet-express-db.png](/home/user22/Descargas/PlanetExpress.png)
+![Planet-express-db.png](https://i.imgur.com/Y3ELhUb.png)
 
 Insertar los siguientes datos:
 
