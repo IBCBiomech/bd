@@ -2,7 +2,9 @@
 
 ## 1.1 El lenguaje DML de SQL
 
-![](C:\Users\Administrador\bd\Consultas\img\descarga.png)
+![](https://github.com/IESLuisBraille/bd/blob/master/Consultas/img/descarga.png?raw=true)
+
+
 
 El **DML** (*Data Manipulation Language*) o **Lenguaje de Manipulación de Datos** es la parte de SQL dedicada a la manipulación de los datos. Las sentencias **DML** son las siguientes:
 
@@ -67,7 +69,7 @@ Es muy importante conocer **en qué orden se ejecuta cada una de las cláusulas*
 - Cláusula `ORDER BY` (Es opcional, puede ser que no aparezca).
 - Cláusula `LIMIT` (Es opcional, puede ser que no aparezca).
 
-![](C:\Users\Administrador\bd\Consultas\img\descarga (1).png)
+![](https://github.com/IESLuisBraille/bd/blob/master/Consultas/img/descarga%20(1).png?raw=true)
 
 Hay que tener en cuenta que el resultado de una consulta siempre será una tabla de datos, que puede tener una o varias columnas y ninguna, una o varias filas.
 
@@ -316,7 +318,7 @@ INSERT INTO offices VALUES (22, 'Denver', 'Western', 108, 300000, 186042);
 
 Supongamos que tenemos una tabla llamada `oficinas` que contiene información sobre las ventas reales que ha generado y el valor de ventas esperado, y nos gustaría conocer si las oficinas han conseguido el objetivo propuesto, y si están por debajo o por encima del valor de ventas esperado.
 
-![](C:\Users\Administrador\bd\Consultas\img\descarga (2).png)
+![](https://github.com/IESLuisBraille/bd/blob/master/Consultas/img/descarga%20(2).png?raw=true)
 
 Imagen: Imagen extraída del libro *SQL: The Complete Reference* de James R. Groff y otros.
 
