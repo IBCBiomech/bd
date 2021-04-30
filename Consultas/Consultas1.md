@@ -682,7 +682,7 @@ A continuación se muestran los operadores más utilizados en MySQL para realiza
 | `AND`    | Y lógica        |
 | &&       | Y lógica        |
 | `OR`     | O lógica        |
-| `||`     | O lógica        |
+| ` || `   | O lógica        |
 | `NOT`    | Negación lógica |
 | `!`      | Negación lógica |
 
